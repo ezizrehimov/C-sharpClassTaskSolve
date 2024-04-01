@@ -1,0 +1,14 @@
+C:\Users\Ezizchik\source\repos\HomeWorkTaskLab15\HomeWorkTaskLab15\bin\Debug\net6.0\HomeWorkTaskLab15.exe
+C:\Users\Ezizchik\source\repos\HomeWorkTaskLab15\HomeWorkTaskLab15\bin\Debug\net6.0\HomeWorkTaskLab15.deps.json
+C:\Users\Ezizchik\source\repos\HomeWorkTaskLab15\HomeWorkTaskLab15\bin\Debug\net6.0\HomeWorkTaskLab15.runtimeconfig.json
+C:\Users\Ezizchik\source\repos\HomeWorkTaskLab15\HomeWorkTaskLab15\bin\Debug\net6.0\HomeWorkTaskLab15.dll
+C:\Users\Ezizchik\source\repos\HomeWorkTaskLab15\HomeWorkTaskLab15\bin\Debug\net6.0\HomeWorkTaskLab15.pdb
+C:\Users\Ezizchik\source\repos\HomeWorkTaskLab15\HomeWorkTaskLab15\obj\Debug\net6.0\HomeWorkTaskLab15.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ezizchik\source\repos\HomeWorkTaskLab15\HomeWorkTaskLab15\obj\Debug\net6.0\HomeWorkTaskLab15.AssemblyInfoInputs.cache
+C:\Users\Ezizchik\source\repos\HomeWorkTaskLab15\HomeWorkTaskLab15\obj\Debug\net6.0\HomeWorkTaskLab15.AssemblyInfo.cs
+C:\Users\Ezizchik\source\repos\HomeWorkTaskLab15\HomeWorkTaskLab15\obj\Debug\net6.0\HomeWorkTaskLab15.csproj.CoreCompileInputs.cache
+C:\Users\Ezizchik\source\repos\HomeWorkTaskLab15\HomeWorkTaskLab15\obj\Debug\net6.0\HomeWorkTaskLab15.dll
+C:\Users\Ezizchik\source\repos\HomeWorkTaskLab15\HomeWorkTaskLab15\obj\Debug\net6.0\refint\HomeWorkTaskLab15.dll
+C:\Users\Ezizchik\source\repos\HomeWorkTaskLab15\HomeWorkTaskLab15\obj\Debug\net6.0\HomeWorkTaskLab15.pdb
+C:\Users\Ezizchik\source\repos\HomeWorkTaskLab15\HomeWorkTaskLab15\obj\Debug\net6.0\HomeWorkTaskLab15.genruntimeconfig.cache
+C:\Users\Ezizchik\source\repos\HomeWorkTaskLab15\HomeWorkTaskLab15\obj\Debug\net6.0\ref\HomeWorkTaskLab15.dll
